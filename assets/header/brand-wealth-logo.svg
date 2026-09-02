@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100" fill="none" role="img" aria-label="Aurum Wealth">
+  <g>
+    <!-- gold arc over the wordmark -->
+    <path d="M14 34 C 62 6, 158 6, 206 34" stroke="#A28445" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <text x="12" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1.5" fill="#141414">AURUM</text>
+    <text x="244" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="38" font-weight="400" letter-spacing="0.5" fill="#141414">Wealth</text>
+  </g>
+</svg>
